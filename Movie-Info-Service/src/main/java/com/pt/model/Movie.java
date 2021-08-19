@@ -10,6 +10,8 @@ import lombok.Setter;
 
 public class Movie {
 	
+	public Movie (){}
+	
 	private String movieId;
 	private String name;
 }
